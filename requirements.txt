@@ -12,7 +12,7 @@ Pillow>=9.5.0
 
 # Computer Vision & Landmark Detection
 opencv-python-headless==4.10.0.84
-mediapipe>=0.10.0
+mediapipe==0.10.21
 
 # Audio Signal Processing & Feature Extraction
 librosa>=0.10.0
